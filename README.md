@@ -2,7 +2,7 @@
 
 A two-player version of the classic Pong arcade game, written in Python. Each player controls a paddle and tries to bounce the ball past the opponent. The ball speeds up as the rally goes on, and the score is tracked at the top of the screen.
 
-![Pong gameplay demo](demo.gif)
+![Pong gameplay demo](images/demo.gif)
 
 ## Features
 
